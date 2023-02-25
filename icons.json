@@ -1,0 +1,4012 @@
+[
+  {
+    "category": "01. 의복 모자",
+    "name": "01. 정복모",
+    "id": ["jeongbokmo"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "02. 베레모",
+    "id": ["beretmo"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "03. 약정복모",
+    "id": ["yakjeongbokmo"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "04. 조리모",
+    "id": ["jorimo"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "05. 조종사 헬멧",
+    "id": ["pilot-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "06. 소방 헬멧",
+    "id": ["firefighter-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "07. 군사경찰 특수임무 헬멧",
+    "id":["mp-specialops-helmet", "military-police-special-operations-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "08. 방탄모",
+    "id": ["fiber-helmet", "bulletproof-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "09. 정비모 · 안전모 ",
+    "id": ["safety-helmet", "maintenance-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "10. 안전모 착용 확인",
+    "id": ["safety-helmet-check", "maintenance-helmet-check"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "11. 교관 헬멧",
+    "id": ["instructor-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "12. 군사경찰 헬멧",
+    "id": ["mp-helmet", "military-police-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "13.캡 모자",
+    "id": ["cap"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "14. 전투모",
+    "id": ["fighting-cap"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "15. 공정통제사 지상임무모",
+    "id": ["air-operations-controller-cap"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "16. 병사 체련모",
+    "id": ["workout-cap"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "17. 폭발물 방호헬멧",
+    "id": ["eod-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "18. 방열모",
+    "id": ["heat-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "19. 공정통제사 강하임무모",
+    "id": ["air-operations-controller-ops-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "20. 지뢰제거 안전모",
+    "id": ["mine-removal-helmet"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "21. 방독면",
+    "id": ["gas-mask"]
+  },
+  {
+    "category": "01. 의복 모자",
+    "name": "22. 방독면 확인",
+    "id": ["gas-mask-check"]
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "01. 동약정복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "02. 하약정복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "03. 정복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "04. 전투복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "05. 하전투복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "06. 군사경찰복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "07. 민방위복 ",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "08. 병사 반코트",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "09. 군악 · 의장 행사복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "10. 사관생도 예복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "11. 사관생도 망토",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "12. 병사 동체련복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "13. 병사 하체련복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "14. 비행복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "15. 비행복 + 하네스",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "16. 공정통제사 강하임무복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "17. 공정통제사 지상임무복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "18. 폭발물처리사 조끼",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "19. 방탄 조끼",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "20. 항공구조사복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "21. 정비복",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "22. 조류퇴치 · 시설공사 조끼 ",
+    "id": null
+  },
+  {
+    "category": "02. 의복 상의",
+    "name": "23. 폭발물 방호복",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "01. L-4",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "02. L-4 (평면)",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "03. F-51D",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "04. F-51D (평면)",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "05. C-47",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "06. C-47 (평면)",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "07. C-123",
+    "id": null
+  },
+  {
+    "category": "03. 항공기 역사기종",
+    "name": "08. C-123 (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "01. F-15K",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "02. F-15K (이륙)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "03. F-15K (착륙)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "04. F-15K (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "05. F-16",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "06. F-16 (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "07. F-35A",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "08. F-35A (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "09. KF-21",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "10. KF-21 (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "11. F-4",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "12. F-4 (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "13. F-5",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "14. F-5 (평면)",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "15. FA-50",
+    "id": null
+  },
+  {
+    "category": "04. 전투임무기",
+    "name": "16. FA-50 (평면)",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "01. KT-1",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "02. KT-1 (평면)",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "03. KT-100",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "04. KT-100 (평면)",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "05. T-50",
+    "id": null
+  },
+  {
+    "category": "05. 훈련기",
+    "name": "06. T-50 (평면)",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "01. C-130",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "02. 수송 지원 중",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "03. 항공기 주의",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "04. 항공기 회항",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "05. 항공기 비용",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "06. C-130 (평면)",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "07. CN-235",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "08. CN-235 (평면)",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "09. B747-400 VIP 전용기",
+    "id": null
+  },
+  {
+    "category": "06. 수송기",
+    "name": "10. B747-400 VIP 전용기 (평면)",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "01. T-50B 블랙이글스 ",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "02. T-50B 블랙이글스 (평면) ",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "03. T-50B 블랙이글스 (배면) ",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "04. E-737 조기경보통제기",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "05. E-737 조기경보통제기 (평면)",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "06. KC-330 공중급유기",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "07. KC-330 공중급유기 (평면)",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "08. RQ-4 무인기",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "09. RQ-4 무인기 (평면)",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "10. MUAV 무인기",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "11. MUAV 무인기 (평면)",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "12. HH-47",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "13. HH-32",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "14. HH-60",
+    "id": null
+  },
+  {
+    "category": "07. 기타 항공기",
+    "name": "15. VH-92",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "01. AGM-65",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "02. AGM-84G",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "03. AGM-84H",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "04. AGM-88",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "05. AGM-142",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "06. GBU-24",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "07. GBU-28",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "08. GBU-31",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "09. MK-20",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "10. MK-82-84",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "11. TAURUS",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "12. 천궁탄",
+    "id": null
+  },
+  {
+    "category": "08. 미사일",
+    "name": "13. K-610 항공조명탄",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "01. CAL-38",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "02. CAL-45",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "03. K-5",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "04. K14",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "05. K1A",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "06. K2",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "07. K201",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "08. M203",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "09. K2C1",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "10. K3",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "11. M16A1",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "12. 조류퇴치 산탄총",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "13. 총탄",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "14. 탄피 충전 · 회수",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "15. 소총탄",
+    "id": null
+  },
+  {
+    "category": "09. 총기",
+    "name": "16. 탄피 충전 · 회수",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "01. K131 수송차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "02. K311 수송차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "03. K311 수송차량 (덮개 X)",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "04. K511 수송차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "05. K711 수송차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "06. 승합차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "07. K-10 제독차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "08. 구급차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "09. SUV",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "10. SUV",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "11. 팔로우미 카",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "12. 픽업트럭",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "13. 더블캡 트럭",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "14. 항공기 견인차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "15. 진공청소차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "16. 덤프트럭",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "17. 급유차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "18. 소방차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "19. 탑차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "20. 버스",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "21. 배차 시간",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "22. 산악버스",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "23. 조종사 출동차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "24. K200A1 장갑차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "25. 굴삭기",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "26. 군사경찰 바이크",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "27. 군사경찰 차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "28. 승용차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "29. 장성 차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "30. 의전 차량",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "31. 경차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "32. 롤러",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "33. 지게차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "34. SE-88 (정면)",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "35. 기차",
+    "id": null
+  },
+  {
+    "category": "10. 차량",
+    "name": "36. 선박",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "01. 호크",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "02. 호크 (조준)",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "03. 발칸",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "04. 신궁",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "05. 천궁",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "06. 패트리어트",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "07. 다기능 레이다",
+    "id": null
+  },
+  {
+    "category": "11. 방공무기체계",
+    "name": "08. 그린파인 레이다",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "01. 집게",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "02. 가위",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "03. 스패너",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "04. 드라이버",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "05. 송곳",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "06. 펜치",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "07. 롱노우즈",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "08. 니퍼",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "09. 나사 · 볼트",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "10. 못",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "11. 너트",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "12. 줄자",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "13. 전선 · 코드",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "14. 전동 드라이버",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "15. 차음 귀마개",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "16. 차음 귀마개 확인",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "17. 장갑",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "18. 장갑 착용 필요",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "19. 고무 장갑",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "20. 로봇",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "21. 반도체",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "22. 자석",
+    "id": null
+  },
+  {
+    "category": "12. 정비",
+    "name": "23. 사다리",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "01. 전투화",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "02. 조종화",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "03. 망원경",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "04. 군번줄",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "05. 군장 가방",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "06. 무전기",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "07. 수통",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "08. 손전등",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "09. 핀셋 · 집게",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "10. 삽",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "11. 제설",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "12. 빗자루",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "13. 쓰레받이",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "14. 안경",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "15. 선글라스",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "16. 폭탄",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "17. 폭발 주의",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "18. 수류탄",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "19. 연막탄",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "20. 메달 · 훈장",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "21. 메달 · 훈장",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "22. 깃발",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "23. 깃발",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "24. 텐트",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "25.  군사경찰 RFID 기기",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "26. 카트 · 수레",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "27. 나침반",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "28. 완장",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "29. 철조망",
+    "id": null
+  },
+  {
+    "category": "13. 도구",
+    "name": "30. 철조망 주의",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "01. 활주로",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "02. 활주로 주의",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "03. 종이 비행기",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "04. 이륙",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "05. 착륙",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "06. 이륙",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "07. 착륙",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "08. 레이더",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "09. 프로펠러",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "10. 지도",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "11. 센서",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "12. 안테나",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "13. 연료 · 석유",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "14. 연료",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "15. 연료 부족",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "16. 항공기 유도봉 · 안전봉",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "17. 온도 상승",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "18. 온도 하강",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "19. 안전벨트",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "20. 폭격",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "21. 조종간 (요크)",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "22. 조종간 (스틱)",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "23. 열기구",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "24. 낙하산",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "25. 드론",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "26. 드론 비행 불가",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "27. 조류 충돌",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "28. 조준",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "29. 고무동력기",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "30. 글라이더",
+    "id": null
+  },
+  {
+    "category": "14. 비행",
+    "name": "31. 물로켓",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "01. 천문대",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "02. 천문대 망원경",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "03. 우주선",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "04. 외계인",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "05. 외계 우주선",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "06. 태양계",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "07. 블랙홀",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "08. 공전",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "09. 자전",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "10. 지구",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "11. 행성",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "12. 운석",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "13. 위성",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "14. 별똥별",
+    "id": null
+  },
+  {
+    "category": "15. 우주",
+    "name": "15. 별자리",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "01. 맑음",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "02. 폭염 · 자외선 주의",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "03. 일출 · 일몰",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "04. 일출",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "05. 일몰",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "06. 일출 · 일몰 시간",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "07. 일식",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "08. 구름 조금",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "09. 비",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "10. 폭우",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "11. 눈",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "12. 폭설",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "13. 뇌우 · 번개",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "14. 우박",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "15. 구름",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "16. 구름 많음",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "17. 달",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "18. 반달",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "19. 보름달",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "20. 월식",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "21. 눈사람",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "22. 눈",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "23. 한파 · 동상 주의",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "24. 습도 · 수분",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "25. 습함",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "26. 건조함",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "27. 우산 · 비",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "28. 강수량 감소",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "29. 풍향",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "30. 영상",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "31. 영하",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "32. 강풍 · 바람",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "33. 황사",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "34. 냉기",
+    "id": null
+  },
+  {
+    "category": "16. 기상",
+    "name": "35. 안개",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "01. 이등병",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "02. 일등병",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "03. 상등병",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "04. 병장",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "05. 하사",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "06. 중사",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "07. 상사",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "08. 원사",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "09. 준위",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "10. 소위",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "11. 중위",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "12. 대위",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "13. 소령",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "14. 중령",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "15. 대령",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "16. 준장",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "17. 소장",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "18. 중장",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "19. 대장",
+    "id": null
+  },
+  {
+    "category": "17. 계급",
+    "name": "20. 원수",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "01. 마스크",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "02. 마스크 필요",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "03. 마스크",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "04. 마스크 필요",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "05. 마스크 · 방진 마스크",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "06. 방진 마스크 착용구역",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "07. 바이러스",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "08. 바이러스 주의",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "09. 사회적 거리두기",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "10. 청진기",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "11. 구급 가방",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "12. 체중계",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "13. 휠체어",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "14. 환자 운반 카트",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "15. 눈",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "16. 입 · 입술",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "17. 정숙",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "18. 치아",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "19. 위",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "20. 폐",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "21. 심장",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "22. 심박",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "23. 심박수 증가",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "24. 뇌",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "25. 예방 · 면역력",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "26. 헌혈",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "27. 수액",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "28. 진료 차트",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "29. 손 소독제",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "30. 유전자",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "31. 알약",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "32. 약 복용 시간",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "33. 체온계",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "34. 체온 측정 필요",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "35. 반창고",
+    "id": null
+  },
+  {
+    "category": "18. 병원 · 감염병",
+    "name": "36. 주사기",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "01. 방사능",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "02. 생물학",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "03. 화학",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "04. 해골 · 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "05. 독극물 · 유해물질",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "06. 해골 · 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "07. 해골 · 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "08. 화재 · 불 · 불꽃",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "09. 화재주의 · 인화성 물질",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "10. 악수",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "11. 접촉 금지",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "12. 손 씻기",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "13. CCTV",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "14. CCTV 녹화 중",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "15. CCTV",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "16. 계기판",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "17. 규정속도 준수",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "18. 과속 금지",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "19. 비상 · 신고",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "20. 비상벨",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "21. 알림 · 종",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "22. 비상 · 알림",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "23. 전화",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "24. 문의 · 부재중 전화",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "25. 비상 전화 · 전화",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "26. 보이스피싱",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "27. 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "28. 라이터",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "29. 파손 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "30. 소화기",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "31. 소화전",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "32. 안전 고깔",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "33. 안전 울타리",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "34. 골절",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "35. 감전",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "36. 전기",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "37. 감전 · 정전기 주의",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "38. 고전압시설",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "39. 흡연",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "40. 금연",
+    "id": null
+  },
+  {
+    "category": "19. 안전",
+    "name": "41. 금연",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "01. 싯업 보드",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "02. 벤치 프레스",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "03. 숄더 프레스",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "04. 체스트 프레스",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "05. 사이클",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "06. 런닝 머신",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "07. 푸쉬업바",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "08. 호루라기",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "09. 시간 제한",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "10. 요가 매트",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "11. 철봉",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "12. 물병",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "13. 샌드백",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "14. 스톱 워치",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "15. 줄넘기",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "16. 샤워",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "17. 케틀벨",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "18. 바벨",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "19. 덤벨",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "20. 배드민턴",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "21. 테니스",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "22. 야구",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "23. 골프",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "24. 셔틀콕",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "25. 테니스공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "26. 배구공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "27. 농구공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "28. 축구공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "29. 볼링공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "30. 당구공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "31. 럭비공",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "32. 탁구채",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "33. 권투 글러브",
+    "id": null
+  },
+  {
+    "category": "20. 운동",
+    "name": "34. 근육 · 체력단련",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "01. 차려 · 남성",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "02. 차려",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "03. 화장실",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "04. 장애인",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "05. 노인",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "06. 임신부",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "07. 인원 증가 · 부상",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "08. 접근 금지",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "09. 경례",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "10. 열중 쉬어",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "11. 달리기",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "12. 전력질주",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "13. 윗몸일으키기",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "14. 팔굽혀펴기",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "15. 수영",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "16. 사이클 · 자전거",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "17. 미끄러짐",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "18. 미끄러짐 주의",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "19. 추락",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "20. 세워 총",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "21. 어깨 걸어 총",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "22. 뒤로 돌아",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "23. 좌향좌",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "24. 우향우",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "25. 양팔 간격 나란히",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "26. 한팔 간격 나란히",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "27. 다리 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "28. 팔 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "29. 목 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "30. 가슴 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "31. 옆구리 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "32. 등배 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "33. 몸통 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "34. 팔다리 운동 I",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "35. 온몸 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "36. 뜀뛰기 운동",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "37. 팔다리 운동 II",
+    "id": null
+  },
+  {
+    "category": "21. 동작",
+    "name": "38. 숨쉬기 운동",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "01. 밥",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "02. 국",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "03. 면",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "04. 컵라면",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "05. 컵라면 가격",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "06. 캔",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "07. 페트병",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "08. 음료",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "09. 커피",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "10. 음주 · 주류",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "11. 금주",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "12. 케이크",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "13. 식판",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "14. 우유",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "15. 달걀",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "16. 커피  · 커피콩",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "17. 티백",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "18. 사탕",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "19. 치킨 · 닭 요리",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "20. 피자",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "21. 햄버거",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "22. 아이스크림",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "23. 소프트폰",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "24. 수저",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "25. 카트",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "26. 장바구니",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "27. 장바구니",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "28. 과자 · 봉지라면",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "30. 화장품",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "31. 로션 · 크림",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "32. 포크",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "33. 뒤집개",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "34. 칼",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "35. 칼 조심",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "36. 국자",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "37. 냄비 · 조리 중",
+    "id": null
+  },
+  {
+    "category": "22. 음식 · BX",
+    "name": "38. 후라이팬 · 조리 중",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "01. 사슴",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "02. 사슴 주의",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "03. 고라니",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "04. 군견",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "05. 개",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "06. 고양이",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "07. 쥐",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "08. 독수리",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "09. 보라매",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "10. 닭",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "11. 참새",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "12. 멧돼지",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "13. 뱀",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "14. 소",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "15. 말",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "16. 용",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "17. 토끼",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "18. 호랑이",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "19. 원숭이",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "20. 양",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "21. 잔디",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "22. 잔디 보호",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "23. 새싹",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "24. 나무",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "25. 나무",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "26. 나무",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "27. 은행잎",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "28. 단풍잎",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "29. 꽃",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "30. 꽃",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "31. 클로버",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "32. 네잎 클로버",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "33. 환경 보호",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "34. 물 절약",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "35. 절전",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "36. 재활용",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "37. 분리수거",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "38. 재활용 캔",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "39. 재활용 페트",
+    "id": null
+  },
+  {
+    "category": "23. 환경",
+    "name": "40. 탄소 발자국",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "01. 창고",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "02. 이글루",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "03. 리베트먼트",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "04. 격납고",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "05. 창고",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "06. 본부",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "07. 일반 건물",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "08. 일반 건물",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "09. 병원",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "10. 집",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "11. 막사 · 텐트",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "12. 박물관",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "13. 은행",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "14. 레이더",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "15. 레이돔",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "16. 관제탑",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "17. 경비 초소",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "18. 승강기 · 엘리베이터",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "19. 승강기 · 엘리베이터",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "20. 승강기 수리 중",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "21. 계단",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "22. 계단",
+    "id": null
+  },
+  {
+    "category": "24. 건물",
+    "name": "23. 계단",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "01. 텔레비전",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "02. 모니터",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "03. 노트북",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "04. 모니터 책상",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "05. 책상",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "06. 셋톱박스 · 공유기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "07. 의자",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "08. 의자",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "09. 소파",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "10. 스탠드",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "11. 전등",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "12. 소등 확인",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "13. 충전기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "14. 플러그",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "15. 콘센트",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "16. 서랍장",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "17. 서랍",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "18. 서랍",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "19. 냉장고",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "20. 선반",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "21. 책상",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "22. 프린터",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "23. 프린터 고장",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "24. 문서",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "25. 문서 파기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "26. 인증서 · 상장",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "27. 문서 세절",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "28. 신문",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "29. 휴지통",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "30. 달력",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "31. 일정 확인",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "32. 계산기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "33. 유선 전화",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "34. 부재중 전화",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "35. 배게 · 쿠션",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "36. 침대",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "37. 수도꼭지",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "38. 절수",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "39. 좌변기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "40. 두루마리 휴지",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "41. 침구류 · 이불",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "42. 라디에이터",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "43. 티슈",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "44. 블라인드",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "45. 정수기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "46. 커피 · 그라인더",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "47. 양치 도구",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "48. 화분",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "49. 전자레인지",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "50. 사용 주의",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "51. 드럼 세탁기 · 건조기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "52. 관물함",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "53. 수건",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "54. 책",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "55. 책 대여기간",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "56. 책",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "57. 손목 시계",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "58. 시간 준수",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "59. 시계",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "60. 시간 수당",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "61. CD",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "62. 옷걸이",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "63. 주전자",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "64. 텀블러",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "65. 머그컵",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "66. 뜨거움 주의",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "67. 찻잔",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "68. 종이컵 ",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "69. 뜨거운 물",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "70. 차가운 물",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "71. 선풍기",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "72. 스마트폰",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "73. 스마트폰 반입금지",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "74. 태블릿",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "75. USB",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "76. USB 케이블",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "77. 이어폰",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "78. 마우스",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "79. 키보드",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "80. 테이프",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "81. 볼펜",
+    "id": null
+  },
+  {
+    "category": "25. 사무실 · 생활관",
+    "name": "82. 연필",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "01. 1급 기밀문서",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "02. 2급 기밀문서",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "03. 3급 기밀문서",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "04. 태극 마크",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "05. 주차",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "06. 주차 금지",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "07. 인터넷",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "08. 망혼용 금지",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "09. 선물",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "10. 지갑",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "11. 급여 · 돈",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "12. 급여 · 돈",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "13. 지폐 · 돈",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "14. 시간 수당",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "15. 돈 봉투 · 급여",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "16. 눈 · 감시",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "17. 범죄 · 수갑",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "18. 법률 · 평등",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "19. 법률",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "20. 축하 · 폭죽",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "21. 열쇠",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "22. 공격 · 검",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "23. 공격 · 전투",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "24. 보안",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "25. 보안",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "26. 보안 · 자물쇠 · 잠금",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "27. 보안 확인",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "28. 자물쇠 · 잠금해제",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "29. 방화벽",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "30. 버그 · 오류",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "31. 신분증",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "32. 인사 · 신분증",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "33. 카드",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "34. 우편 · 이메일",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "35. 메일 열람 주의",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "36. 해킹 메일",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "37. 확성기 · 알림",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "38. 자료교환 · 순환",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "39. 자료교환 · 순환",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "40. 아이디어 · 전구",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "41. 외출 · 출장",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "42. 택배 · 상자 · 박스",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "43. 정비",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "44. 이발 · 미용",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "45. 대학 · 졸업",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "46. 체크 · 평가",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "47. 블로그 · 카페 · 게시판",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "48. 퀀텀 5.0",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "49. 핵심가치",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "50. 월간 공군",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "51. 군종 기독교",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "52. 군종 가톨릭",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "53. 군종 불교",
+    "id": null
+  },
+  {
+    "category": "26. 인트라넷",
+    "name": "54. 군종 원불교",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "01. 좋아요",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "02. 싫어요",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "03. 하트",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "04. 되돌리기",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "05. 들어가기 · 입장",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "06. 나가기 · 퇴장",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "07. 사진 · 갤러리",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "08. 동영상",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "09. 텍스트",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "10. 코드",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "11. 연락처",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "12. 공유 · 내보내기",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "13. 편집 · 수정",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "14. 폴더",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "15. 메시지 · 말풍선 · 소통",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "16. 대화 금지",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "17. 전원",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "18. 주의 · 느낌표",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "19. 안내",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "20. 안내 · 물음표",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "21. 지문",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "22. 와이파이 · 신호",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "23. 블루투스",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "24. 설정 · 이퀄라이저",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "25. 데이터",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "26. 확대",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "27. 축소",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "28. 음악 · 노래 · 음표",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "29. 소리 · 음량",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "30. 음량 증가",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "31. 음량 감소",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "32. 음소거",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "33. 홈",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "34. 설정 · 톱니바퀴",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "35. 다운로드",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "36. 업로드",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "37. 공유",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "38. 작성",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "39. 프로필",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "40. 배터리",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "41. 녹음 · 마이크",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "42. 녹음 금지",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "43. 위치",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "44. 비디오 · 캠코더",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "45. 카메라",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "46. 검색 · 돋보기 · 확대",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "47. 첨부파일",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "48. 재생",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "49. 일시정지",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "50. 빨리감기",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "51. 되감기",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "52. 금지",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "53. 허용",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "54. 추가",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "55. 제외",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "56. 다음 · 앞으로",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "57. 이전 · 뒤로",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "58. 화살표 · 다음 · 앞으로",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "59. 화살표 · 이전 · 뒤로",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "60. 더보기 · 대기",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "61. 숫자 1",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "62. 숫자 2",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "63. 숫자 3",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "64. 숫자 4",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "65. 숫자 5",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "66. 숫자 6",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "67. 숫자 7",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "68. 숫자 8",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "69. 숫자 9",
+    "id": null
+  },
+  {
+    "category": "27. 웹 · 모바일",
+    "name": "70. 숫자 0",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "01. 허용 · 정답",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "02. 세모",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "03. 금지",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "04. 오른쪽",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "05. 왼쪽",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "06. 하강 · 아래",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "07. 상승 · 위",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "08. 우상단",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "09. 좌상단",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "10. 우하단",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "11. 좌하단",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "12. 체크 · 확인 ",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "13. 추가 ·  응급",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "14. 감소 ·  빼기",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "15. 원화",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "16. 달러화",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "17. 시간",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "18. 주의",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "19. 물음",
+    "id": null
+  },
+  {
+    "category": "28. 배지",
+    "name": "20. 반복 · 되돌리기",
+    "id": null
+  }
+]
